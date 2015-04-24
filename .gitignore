@@ -1,0 +1,11 @@
+# this is a git ignore file
+
+# no .o or .a files
+*.[oa]
+
+# no files end with ~
+*~
+
+# no files in bin folder
+bin/
+
